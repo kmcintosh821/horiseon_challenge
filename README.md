@@ -16,7 +16,7 @@ The new code functions mostly identically to the old code, aside from the fixed 
 
 ## Credits
 
-N/A
+All original code sourced from the Rutgers Coding Bootcamp curriculum.
 
 ## License
 
